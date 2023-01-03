@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "whartle:block/whartle_hexed_shell_block"
+  }
+}

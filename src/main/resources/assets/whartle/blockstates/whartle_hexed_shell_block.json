@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model":  "whartle:block/whartle_hexed_shell_block" }
+  }
+}
