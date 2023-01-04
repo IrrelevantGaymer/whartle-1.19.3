@@ -10,7 +10,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup WHARTLE = FabricItemGroup.builder(new Identifier(WhartleMod.MOD_ID))
-            .displayName(Text.literal("whartle_items"))
+            .displayName(Text.translatable("whartle_items"))
             .icon(() -> new ItemStack(ModBlocks.WHARTLE_SHELL_BLOCK))
             .build();
 }
